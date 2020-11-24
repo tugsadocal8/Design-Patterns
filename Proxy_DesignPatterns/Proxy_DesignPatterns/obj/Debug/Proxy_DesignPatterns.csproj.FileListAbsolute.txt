@@ -1,0 +1,7 @@
+C:\Users\tugsa\Desktop\Design Patterns\Proxy_DesignPatterns\Proxy_DesignPatterns\bin\Debug\Proxy_DesignPatterns.exe.config
+C:\Users\tugsa\Desktop\Design Patterns\Proxy_DesignPatterns\Proxy_DesignPatterns\bin\Debug\Proxy_DesignPatterns.exe
+C:\Users\tugsa\Desktop\Design Patterns\Proxy_DesignPatterns\Proxy_DesignPatterns\bin\Debug\Proxy_DesignPatterns.pdb
+C:\Users\tugsa\Desktop\Design Patterns\Proxy_DesignPatterns\Proxy_DesignPatterns\obj\Debug\Proxy_DesignPatterns.csprojAssemblyReference.cache
+C:\Users\tugsa\Desktop\Design Patterns\Proxy_DesignPatterns\Proxy_DesignPatterns\obj\Debug\Proxy_DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\tugsa\Desktop\Design Patterns\Proxy_DesignPatterns\Proxy_DesignPatterns\obj\Debug\Proxy_DesignPatterns.exe
+C:\Users\tugsa\Desktop\Design Patterns\Proxy_DesignPatterns\Proxy_DesignPatterns\obj\Debug\Proxy_DesignPatterns.pdb

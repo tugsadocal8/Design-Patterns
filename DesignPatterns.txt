@@ -1,0 +1,39 @@
+Decorator
+ 	Nesneye dinamik olarak yeni bir özellik ve durum eklenmektedir.
+	Sürekli gelişmeye açık olan sistemler için ideal bir yapı
+
+
+Facade
+	Ayrıntıları kullanıclarda gizlenen alt sistemlerin farklı yüksek 
+ 	seviyeli görünümlerini sağlar
+	Birden fazla sınıftaki karmaşayı bir cephenin ardına saklar.
+	Karışık yapıları tek bir arayüz içersinde toplar
+
+
+Adaptor
+	Maliyet
+	Sistemin uyumlu olmayan bir otama uyum sağlaması
+	Kodların yeniden yazılmasını engeller
+	birbirleriyle ilişkisi olmayan arayüzlerin birlikte çalışmasını sağlar
+	Sistem değişmeden yeni fonksiyonlar eklenebilir.
+
+Proxy
+	Nesnelerin başka nesne oluşturmasına ve başka nesnelere erişmesine olanak
+	olanak sağlayan tasarım desenidir. Erişim kontrolü için kullanılır.
+	Yeni nesne maliyet yaratacaksa
+	Uzak sitelere erişim gerektiğinde
+	Erişildiğinde eylem gerektiren durumlarda
+
+
+Prototype
+	Yeni nesneleri klonlama ile oluşturur. Shallow Copy-Yüzeysel Kopyalama
+	Belirli nesnelerin kopyasını oluşturarak daha sonra yapılacak işlemler için kopanın kullanıllmasını sağlar
+	Referans türünde kopyalamalar için deep copy metodu ile kopyalanır.
+Bu türde yeni referans değişkenine atanması için nesneler kopyalanır.
+
+
+Singleton
+
+
+
+
